@@ -2,6 +2,7 @@
 
 
 short Boundary Detection is a technique used in computer vision to identify shorter edges or boundaries in an image. This is particularly useful for focusing on specific regions within an image, such as detecting objects or features in dynamic scenes1.
+![Uploading Screenshot 2024-11-26 185051.png…]()
 
 Background Subtraction involves separating the foreground objects from the background in a video or image sequence. This technique is widely used in applications like surveillance, motion detection, and gesture recognition2. It works by comparing each frame with a background model and classifying pixels as either background or foreground based on their similarity to the model.
 
