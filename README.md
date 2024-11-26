@@ -16,3 +16,4 @@ Divisive Clustering: This hierarchical method starts with all pixels in one clus
 ![Screenshot (5)](https://github.com/user-attachments/assets/59337965-f44a-44f7-bb33-f16450bee2d5)
 
 These techniques help in identifying and isolating different objects or regions within an image, making it easier to analyze and process
+
