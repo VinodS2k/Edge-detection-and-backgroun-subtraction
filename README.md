@@ -13,5 +13,6 @@ K-Means Clustering: This method partitions the image into K clusters based on pi
 Agglomerative Clustering: This hierarchical method starts with each pixel as its own cluster and iteratively merges the closest clusters until only one cluster remains.
 
 Divisive Clustering: This hierarchical method starts with all pixels in one cluster and recursively splits the cluster into smaller clusters until each pixel is in its own cluster.
+![Screenshot (5)](https://github.com/user-attachments/assets/59337965-f44a-44f7-bb33-f16450bee2d5)
 
 These techniques help in identifying and isolating different objects or regions within an image, making it easier to analyze and process
